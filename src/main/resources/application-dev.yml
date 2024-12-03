@@ -1,0 +1,10 @@
+spring:
+  profiles: dev
+  security:
+    enabled: false
+  application:
+    name: firstAPI
+
+server:
+  port: 8083
+
